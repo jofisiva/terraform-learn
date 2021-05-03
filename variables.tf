@@ -7,3 +7,4 @@ variable instance_type {}
 variable public_key {}
 variable public_key_location {}
 variable private_key {}
+variable image_name{}
